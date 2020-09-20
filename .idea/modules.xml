@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BT-PhanLoaiTamGiac/BT-PhanLoaiTamGiac.iml" filepath="$PROJECT_DIR$/BT-PhanLoaiTamGiac/BT-PhanLoaiTamGiac.iml" />
       <module fileurl="file://$PROJECT_DIR$/BT-TinhNgayTiepTheo/BT-TinhNgayTiepTheo.iml" filepath="$PROJECT_DIR$/BT-TinhNgayTiepTheo/BT-TinhNgayTiepTheo.iml" />
       <module fileurl="file://$PROJECT_DIR$/TH-absolute-number-calculator/TH-absolute-number-calculator.iml" filepath="$PROJECT_DIR$/TH-absolute-number-calculator/TH-absolute-number-calculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/TH-test-junit-simple-calculator/junit-simple-calculator.iml" filepath="$PROJECT_DIR$/TH-test-junit-simple-calculator/junit-simple-calculator.iml" />
