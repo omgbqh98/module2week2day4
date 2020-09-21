@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BT-ChuongTrinhTinhKetQua-FizzBuzz/BT-ChuongTrinhTinhKetQua-FizzBuzz.iml" filepath="$PROJECT_DIR$/BT-ChuongTrinhTinhKetQua-FizzBuzz/BT-ChuongTrinhTinhKetQua-FizzBuzz.iml" />
       <module fileurl="file://$PROJECT_DIR$/BT-PhanLoaiTamGiac/BT-PhanLoaiTamGiac.iml" filepath="$PROJECT_DIR$/BT-PhanLoaiTamGiac/BT-PhanLoaiTamGiac.iml" />
       <module fileurl="file://$PROJECT_DIR$/BT-TinhNgayTiepTheo/BT-TinhNgayTiepTheo.iml" filepath="$PROJECT_DIR$/BT-TinhNgayTiepTheo/BT-TinhNgayTiepTheo.iml" />
       <module fileurl="file://$PROJECT_DIR$/TH-absolute-number-calculator/TH-absolute-number-calculator.iml" filepath="$PROJECT_DIR$/TH-absolute-number-calculator/TH-absolute-number-calculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/TH-test-junit-simple-calculator/junit-simple-calculator.iml" filepath="$PROJECT_DIR$/TH-test-junit-simple-calculator/junit-simple-calculator.iml" />
-      <module fileurl="file://$PROJECT_DIR$/module2week2day4.iml" filepath="$PROJECT_DIR$/module2week2day4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module2week2day4(testTDD).iml" filepath="$PROJECT_DIR$/module2week2day4(testTDD).iml" />
     </modules>
   </component>
 </project>
